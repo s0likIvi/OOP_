@@ -23,7 +23,7 @@ print(f"{name} starts programming at {datetime.now()}. {location} is the best ci
 
 Результат виконання програми:
 
-![Результат виконання програми](OOP/1_python_program/screenshot.png)
+![Результат виконання програми](screenshot.png)
 
 ### Завдання 3. Виконання програми в Jupyter Notebook
 
@@ -31,7 +31,9 @@ print(f"{name} starts programming at {datetime.now()}. {location} is the best ci
 
 Результат виконання програми:
 
-![Результат виконання програми](OOP/1_python_program/screen:ipynb.png)
+![Результат виконання програми](screenshot/screen%3Aipynb.png)
+
+
 
 ### Завдання 4. Використання Markdown
 
@@ -43,7 +45,7 @@ print(f"{name} starts programming at {datetime.now()}. {location} is the best ci
 
 **Відповідь AI:** 
 
-![Результат виконання програми](./OOP/1_python_program/screenshot/copilot.png)
+![Результат виконання програми](screenshot/copilot.png)
 
 ## Результати виконання
 
